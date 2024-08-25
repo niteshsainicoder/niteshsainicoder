@@ -10,12 +10,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **⚡ Fun Fact:** I'm a self-taught coder who started with curiosity and a love for tech. Now, I enjoy blending creativity and code to build solutions that make a difference.
 - 
 ## 🌐 Check Out My Portfolio
-You can view my work and learn more about me on my [portfolio website](niteshsainidev.vercel.app).
+You can view my work and learn more about me on my [portfolio website](https://niteshsainidev.vercel.app/).
 
 ## 📝 Featured Projects
 Here are a few projects I'm proud of:
 
-1. **Remote Code Execution Platform** - An online platform where users can write, execute, and share code snippets in real-time. [Check it out here](link-to-project-repo).
+1. **Remote Code Execution Platform** - An online platform where users can write, execute, and share code snippets in real-time. [Check it out here](https://github.com/niteshsainicoder/remoteCode.git).
 
 2. **Collaborative Document Editor** - A web-based application that allows multiple users to edit documents simultaneously with real-time updates. [Explore the project](link-to-project-repo).
 

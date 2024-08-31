@@ -19,7 +19,7 @@ Here are a few projects I'm proud of:
 
 2. **Collaborative Document Editor** - A web-based application that allows multiple users to edit documents simultaneously with real-time updates. [Explore the project](link-to-project-repo).
 
-3. **Personal Portfolio with CMS** - A fully customizable portfolio website built with Next.js and a headless CMS. [View the repository](link-to-project-repo).
+3. **Personal Portfolio with CMS** - A fully customizable portfolio website built with Next.js and a headless CMS. [View the repository](https://github.com/niteshsainicoder/portfolio.git).
 
 Feel free to explore these projects and provide any feedback. I'm always looking to improve!
 
